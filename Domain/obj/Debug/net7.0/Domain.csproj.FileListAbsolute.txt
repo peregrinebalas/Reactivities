@@ -1,0 +1,11 @@
+/Users/prbalas/code/exercises/Reactivities/Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/prbalas/code/exercises/Reactivities/Domain/bin/Debug/net7.0/Domain.dll
+/Users/prbalas/code/exercises/Reactivities/Domain/bin/Debug/net7.0/Domain.pdb
+/Users/prbalas/code/exercises/Reactivities/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prbalas/code/exercises/Reactivities/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/prbalas/code/exercises/Reactivities/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/prbalas/code/exercises/Reactivities/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/prbalas/code/exercises/Reactivities/Domain/obj/Debug/net7.0/Domain.dll
+/Users/prbalas/code/exercises/Reactivities/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/prbalas/code/exercises/Reactivities/Domain/obj/Debug/net7.0/Domain.pdb
+/Users/prbalas/code/exercises/Reactivities/Domain/obj/Debug/net7.0/ref/Domain.dll
